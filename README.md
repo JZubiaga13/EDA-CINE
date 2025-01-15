@@ -30,12 +30,10 @@ Eventos como la pandemia de COVID-19 en 2020 aceleraron aún más estos cambios,
 ---
 
 ## **Estructura del Repositorio 📁**
-
-- `datasets/`: Contiene los conjuntos de datos utilizados en el análisis, obtenidos de Kaggle.
-- `notebooks/`: Jupyter notebooks con el análisis detallado.
-- `visualizations/`: Gráficos generados durante el EDA, incluyendo análisis de tendencias y relaciones clave.
-- `results/`: Resumen de los hallazgos y conclusiones.
-- `README.md`: Este archivo con una descripción general del proyecto.
+- Datos : Carpeta con los csv y otros tipos de datasets que se han utilizado.
+- Cuadernos de prueba: Otros archivos ipynb que han servido como borradores y fasciculos del EDA Final.
+- EDA: Carpeta incluyendo el EDA Definitivo.
+- `README.md`: Este archivo que estas leyendo con una descripción general del proyecto.
 
 ---
 
@@ -45,7 +43,7 @@ Eventos como la pandemia de COVID-19 en 2020 aceleraron aún más estos cambios,
 - **Bibliotecas principales:**
   - `pandas` y `numpy` para la manipulación de datos.
   - `matplotlib` y `seaborn` para visualización.
-  - `scipy` para análisis estadísticos.
+ 
 
 ---
 
