@@ -80,5 +80,5 @@ Este análisis refleja una industria en constante transformación, influenciada 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/eda_cine.git
+   git clone https://github.com/JZubiaga13/eda_cine.git
 
